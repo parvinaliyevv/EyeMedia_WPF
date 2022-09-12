@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyeMedia", "EyeMedia\EyeMedia.csproj", "{EF42AF9C-4DEC-4F3D-92D0-0DB7961CF39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF42AF9C-4DEC-4F3D-92D0-0DB7961CF39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF42AF9C-4DEC-4F3D-92D0-0DB7961CF39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF42AF9C-4DEC-4F3D-92D0-0DB7961CF39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF42AF9C-4DEC-4F3D-92D0-0DB7961CF39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974D2DB3-876B-4855-95ED-1D5F0FDD4F03}
+	EndGlobalSection
+EndGlobal
