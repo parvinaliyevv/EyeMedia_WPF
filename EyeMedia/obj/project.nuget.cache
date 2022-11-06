@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RRrDl5oyZGK1bUcCwxmw4FeMwJEs9OuicwFXI+Q+9pvyysY38n2VPZHhc6SPITy/1io3XxTGxhD/masTHbPy+Q==",
+  "dgSpecHash": "Wzr3LCMEC0NMb5ombwfqg4l0xmpSDHpcwe7V7B0AKWW6aEyba5hYneo4T3ap7SNVAqFONqHDeH5JoYt9xWTJkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aliy_ql08\\Desktop\\EyeMedia\\EyeMedia\\EyeMedia.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\New folder\\WPF-Homework_16.03.2022\\EyeMedia\\EyeMedia.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
-    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
-    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
-    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
